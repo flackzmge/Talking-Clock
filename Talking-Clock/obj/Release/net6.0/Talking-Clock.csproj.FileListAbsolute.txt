@@ -1,0 +1,15 @@
+/Users/nathangilbert/Projects/Talking-Clock/Talking-Clock/bin/Release/net6.0/Talking-Clock
+/Users/nathangilbert/Projects/Talking-Clock/Talking-Clock/bin/Release/net6.0/Talking-Clock.deps.json
+/Users/nathangilbert/Projects/Talking-Clock/Talking-Clock/bin/Release/net6.0/Talking-Clock.runtimeconfig.json
+/Users/nathangilbert/Projects/Talking-Clock/Talking-Clock/bin/Release/net6.0/Talking-Clock.dll
+/Users/nathangilbert/Projects/Talking-Clock/Talking-Clock/bin/Release/net6.0/Talking-Clock.pdb
+/Users/nathangilbert/Projects/Talking-Clock/Talking-Clock/obj/Release/net6.0/Talking-Clock.csproj.AssemblyReference.cache
+/Users/nathangilbert/Projects/Talking-Clock/Talking-Clock/obj/Release/net6.0/Talking-Clock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathangilbert/Projects/Talking-Clock/Talking-Clock/obj/Release/net6.0/Talking-Clock.AssemblyInfoInputs.cache
+/Users/nathangilbert/Projects/Talking-Clock/Talking-Clock/obj/Release/net6.0/Talking-Clock.AssemblyInfo.cs
+/Users/nathangilbert/Projects/Talking-Clock/Talking-Clock/obj/Release/net6.0/Talking-Clock.csproj.CoreCompileInputs.cache
+/Users/nathangilbert/Projects/Talking-Clock/Talking-Clock/obj/Release/net6.0/Talking-Clock.dll
+/Users/nathangilbert/Projects/Talking-Clock/Talking-Clock/obj/Release/net6.0/refint/Talking-Clock.dll
+/Users/nathangilbert/Projects/Talking-Clock/Talking-Clock/obj/Release/net6.0/Talking-Clock.pdb
+/Users/nathangilbert/Projects/Talking-Clock/Talking-Clock/obj/Release/net6.0/Talking-Clock.genruntimeconfig.cache
+/Users/nathangilbert/Projects/Talking-Clock/Talking-Clock/obj/Release/net6.0/ref/Talking-Clock.dll

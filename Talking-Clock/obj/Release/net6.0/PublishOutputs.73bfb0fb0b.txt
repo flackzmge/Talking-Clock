@@ -1,0 +1,5 @@
+/Users/nathangilbert/Projects/Talking-Clock/Talking-Clock/bin/Release/net6.0/publish/Talking-Clock
+/Users/nathangilbert/Projects/Talking-Clock/Talking-Clock/bin/Release/net6.0/publish/Talking-Clock.dll
+/Users/nathangilbert/Projects/Talking-Clock/Talking-Clock/bin/Release/net6.0/publish/Talking-Clock.deps.json
+/Users/nathangilbert/Projects/Talking-Clock/Talking-Clock/bin/Release/net6.0/publish/Talking-Clock.runtimeconfig.json
+/Users/nathangilbert/Projects/Talking-Clock/Talking-Clock/bin/Release/net6.0/publish/Talking-Clock.pdb
